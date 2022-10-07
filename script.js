@@ -7,7 +7,7 @@ const computer = choices[randomIndex]
 const youWinPhrase = "You Win!"
 const youLosePhrase = "You Lose!"
 const youTiePhrase = "It's a Tie!"
-const playAgain = " Play again?"
+const playAgain = " Refresh page to play again."
 console.log(computer);
 
 const input = prompt("Choose r, p, or s.");
